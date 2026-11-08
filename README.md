@@ -5,12 +5,12 @@ Codyssey 학습 미션의 기획서, 결과물, 기록과 검증 근거를 미�
 ## 진행 중인 미션
 
 - [미션 1-1: 영화 티어리스트](missions/1-1/README.md)
-- [미션 1-4: 기능 추가와 복구](missions/1-4/README.md)
 
 ## 제출한 미션
 
 - [미션 1-2: 오류 재현과 수정](missions/1-2/README.md)
 - [미션 1-3: 피드백 검토](missions/1-3/README.md) — [기록](missions/1-3/미션3_기록.md), [피드백](missions/1-3/피드백.md)
+- [미션 1-4: 기능 추가와 복구](missions/1-4/README.md) — [기획서](missions/1-4/기획서.md), [기록](missions/1-4/미션4_기록.md), [결과물](missions/1-4/영화_기능추가.html)
 
 ## 공개 페이지
 
