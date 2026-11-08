@@ -14,7 +14,7 @@ Codyssey 학습 미션의 기획서, 결과물, 기록과 검증 근거를 미�
 
 ## 공개 페이지
 
-- [Codyssey 미션 1-1 결과물](https://qoal1201.github.io/codyssey/)
+- [Codyssey 미션 1-1 결과물](https://qoal1201.github.io/codyssey/missions/1-1/)
 - [영화 A 초안](https://qoal1201.github.io/codyssey/missions/1-1/%EC%98%81%ED%99%94_A_%EC%B4%88%EC%95%88.html)
 - [영화 B 초안](https://qoal1201.github.io/codyssey/missions/1-1/%EC%98%81%ED%99%94_B_%EC%B4%88%EC%95%88.html)
 
