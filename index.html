@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Codyssey · 미션 1-1</title>
+  <style>
+    :root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; color: #17233b; background: #f5f6fa; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { width: min(760px, calc(100% - 32px)); margin: 0 auto; padding: 64px 0; }
+    .eyebrow { color: #5367d9; font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+    h1 { margin: 8px 0 12px; font-size: clamp(30px, 6vw, 48px); letter-spacing: -.04em; }
+    .intro { max-width: 560px; color: #64718a; line-height: 1.7; }
+    .cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 32px; }
+    a.card { display: block; padding: 22px; border: 1px solid #d9deea; border-radius: 16px; background: #fff; color: inherit; text-decoration: none; transition: transform .15s, border-color .15s, box-shadow .15s; }
+    a.card:hover { transform: translateY(-2px); border-color: #5367d9; box-shadow: 0 8px 24px #17233b12; }
+    .tag { color: #5367d9; font-size: 12px; font-weight: 800; letter-spacing: .08em; }
+    h2 { margin: 8px 0; font-size: 21px; }
+    .card p { margin: 0; color: #64718a; line-height: 1.55; }
+    .open { display: inline-block; margin-top: 18px; color: #4054c5; font-size: 14px; font-weight: 750; }
+    footer { margin-top: 28px; color: #7c879a; font-size: 13px; }
+    @media (max-width: 560px) { main { padding-top: 40px; } .cards { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Codyssey · Mission 1-1</p>
+    <h1>영화 티어리스트</h1>
+    <p class="intro">같은 기획서로 서로 다른 AI가 만든 두 결과물입니다. 파일을 열어 영화 카드를 옮기고, 새 제목 추가와 저장 동작을 확인해 보세요.</p>
+    <section class="cards" aria-label="AI 결과물">
+      <a class="card" href="missions/1-1/%EC%98%81%ED%99%94_A_%EC%B4%88%EC%95%88.html">
+        <span class="tag">AI A · CODEX</span>
+        <h2>영화 A 초안</h2>
+        <p>화면 구성과 디자인을 기준으로 선택한 결과물입니다.</p>
+        <span class="open">열어 보기 →</span>
+      </a>
+      <a class="card" href="missions/1-1/%EC%98%81%ED%99%94_B_%EC%B4%88%EC%95%88.html">
+        <span class="tag">AI B · GEMINI 3 FLASH</span>
+        <h2>영화 B 초안</h2>
+        <p>Gemini 3 Flash가 같은 기획서로 만든 결과물입니다.</p>
+        <span class="open">열어 보기 →</span>
+      </a>
+    </section>
+    <footer>이 페이지는 학습 결과 공유용입니다. 각 브라우저의 저장 데이터는 해당 브라우저에만 남습니다.</footer>
+  </main>
+</body>
+</html>
