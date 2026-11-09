@@ -7,7 +7,7 @@ Codyssey 학습 미션의 기획서, 결과물, 기록과 검증 근거를 미�
 - [미션 1-1: 영화 티어리스트](missions/1-1/README.md)
 - [미션 2-1: 게임을 만드는 기록 기획서](missions/2-1/기획서.md)
 - [미션 2-2: 게임 개발 기록 제작·검증](missions/2-2/제작검증기록.md) — [결과물](missions/2-2/게임개발기록_v1.html)
-- [미션 2-3: 게임 개발 기록 수정·검증](missions/2-3/제작검증기록.md) — [수정본](missions/2-3/게임개발기록_v2.html)
+- [미션 2-3: 기존 기술 블로그 활용 기획](missions/2-3/기획서_수정본.md) — [검증 기록](missions/2-3/제작검증기록_수정본.md) · [결과물: 기존 기술 블로그](https://game-making-journal.parksunho.chatgpt.site/) — [이전 정적 시안](missions/2-3/게임개발기록_v2.html), [이전 기록](missions/2-3/제작검증기록.md)
 
 ## 제출한 미션
 
